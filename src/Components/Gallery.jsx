@@ -1,9 +1,9 @@
-import g1 from "../assets/gl1.jpg";
-import g2 from "../assets/gl2.jpg";
-import g3 from "../assets/gl3.jpg";
-import g4 from "../assets/gl4.jpg";
-import g5 from "../assets/gl5.jpg";
-import g6 from "../assets/gl6.jpg";
+import g1 from "../assets/gl1.JPG";
+import g2 from "../assets/gl2.JPG";
+import g3 from "../assets/gl3.JPG";
+import g4 from "../assets/gl4.JPG";
+import g5 from "../assets/gl5.JPG";
+import g6 from "../assets/gl6.JPG";
 import { useInView } from "../hooks/useInView";
 
 export default function Gallery() {
