@@ -1,4 +1,4 @@
-import foto from "../assets/page2.jpg";
+import foto from "../assets/page2.JPG";
 
 export default function Opening() {
   return (
