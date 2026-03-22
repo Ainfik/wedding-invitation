@@ -1,8 +1,4 @@
-<img
-  src="/page2.jpg"
-  alt="bg"
-  className="w-full h-full object-cover"
-/>
+import foto from "../assets/page2.jpg";
 
 export default function Opening() {
   return (
