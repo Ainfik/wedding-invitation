@@ -1,5 +1,5 @@
-import pria from "../assets/pria.jpg";
-import wanita from "../assets/wanita.jpg";
+import pria from "../assets/pria.JPG";
+import wanita from "../assets/wanita.JPG";
 import { useInView } from "../hooks/useInView";
 
 export default function BrideGroom() {

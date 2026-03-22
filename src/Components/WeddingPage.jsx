@@ -1,6 +1,6 @@
 import bg from "../assets/background.png";
-import pria from "../assets/pria.jpg";
-import wanita from "../assets/wanita.jpg";
+import pria from "../assets/pria.JPG";
+import wanita from "../assets/wanita.JPG";
 
 import HeroText from "./HeroText";
 import BrideGroom from "./BrideGroom";
