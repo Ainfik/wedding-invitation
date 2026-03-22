@@ -1,4 +1,4 @@
-import foto from "../assets/page2.jpg";
+import foto from "../assets/background.png";
 import { useInView } from "../hooks/useInView";
 
 export default function Footer() {
